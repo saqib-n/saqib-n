@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.wolfxense.agency/">
-    <img src="https://img.shields.io/badge/Agency-WolfXense-black?style=for-the-badge&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/Agency-WolfXense AI-black?style=for-the-badge&logo=google-chrome" />
   </a>
 </div>
 
