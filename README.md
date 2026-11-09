@@ -2,7 +2,7 @@
 <div align="center">
   <h2>Hi, I'm Saqib Malik 👋</h2>
   <p>
-    <b>Founder <a href="https://www.wolfxense.agency/">@WolfXense AI</a></b>
+    <b>Founder <a href="https://www.wolfxense-ai.agency/">@WolfXense AI</a></b>
     <br>
     Data Scientist | AI Automation Specialist | AI Transformation Partner
   </p>
