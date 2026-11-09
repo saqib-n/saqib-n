@@ -4,13 +4,13 @@
   <p>
     <b>Founder <a href="https://www.wolfxense-ai.agency/">@WolfXense AI</a></b>
     <br>
-    Data Scientist | AI Automation Specialist | AI Transformation Partner
+    Data Scientist | Agentic AI Developer | AI Transformation Partner
   </p>
   
   <a href="https://www.linkedin.com/in/saqibnawazmalik/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.wolfxense.agency/">
+  <a href="https://www.wolfxense-ai.agency/">
     <img src="https://img.shields.io/badge/Agency-WolfXense AI-black?style=for-the-badge&logo=google-chrome" />
   </a>
 </div>
@@ -21,7 +21,7 @@
 
 I am a **Data Scientist** and **AI Automation Specialist** serving as a strategic **AI Transformation Partner**.
 
-I founded **[WolfXense AI](https://www.wolfxense.agency/)** to close the gap between "having AI" and "using AI." I don't function as a typical vendor who just delivers code and disappears. Instead, I act as a dedicated ally, guiding my clients through the full adoption process—from finding high-impact opportunities and building custom **Agentic AI** systems, to training the workforce to master them.
+I founded **[WolfXense AI](https://www.wolfxense-ai.agency/)** to close the gap between "having AI" and "using AI." I don't function as a typical vendor who just delivers code and disappears. Instead, I act as a dedicated ally, guiding my clients through the full adoption process—from finding high-impact opportunities and building custom **Agentic AI** systems, to training the workforce to master them.
 
 I don't just build the tech; I ensure it becomes a sustainable competitive advantage.
 
