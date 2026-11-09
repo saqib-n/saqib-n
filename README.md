@@ -76,8 +76,8 @@ My daily drivers for building scalable **Agentic** and **Automation** solutions:
 
 Whether you need a strategic roadmap, a custom system built, or expert training—I am here to guide the transformation.
 
-*   **Agency:** [www.wolfxense.agency](https://www.wolfxense.agency/)
-*   **Email:** saqib-ai@wolfxense.agency
+*   **Agency:** [www.wolfxense-ai.agency](https://www.wolfxense-ai.agency/)
+*   **Email:** contact@wolfxense-ai.agency
 *   **DM me:** [LinkedIn](https://www.linkedin.com/in/saqibnawazmalik/)
 
 <div align="center">
